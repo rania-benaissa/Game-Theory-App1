@@ -46,7 +46,7 @@ To lunch the application, run _**Application.py**_ file:
 
 # Exemple
 
-Let's consider the following three players game:
+Let's consider the following three-players game:
 
 ![interface](/README_images/players.jpg)
 
